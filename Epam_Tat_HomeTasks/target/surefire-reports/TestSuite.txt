@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 41.568 s <<< FAILURE! - in TestSuite
+validateFlightSearchTest(org.epam.tests.FlightBookingTest)  Time elapsed: 0.533 s  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+	Actual city details and Expected city details are not same expected [Almeria (LEI) - Barcelona (BCN)] but found [Almería (LEI) - Barcelona (BCN)],
+	Actual Journy dates and Expected Journey dates are not same expected [13/7/2017 - 20/7/2017] but found [13/07/2017 - 20/07/2017],
+	Actual Passenger details and Expected Passenger details are not same expected [2 Adults, 2 Children, 2 Babies] but found [2 Adultos, 2 Niños, 2 Bebés]
+	at org.epam.tests.FlightBookingTest.validateFlightSearchTest(FlightBookingTest.java:55)
+

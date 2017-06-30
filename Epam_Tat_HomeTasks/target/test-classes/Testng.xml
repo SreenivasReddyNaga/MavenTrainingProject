@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TrainingTestSuite">
+    <parameter name="url" value="http://www.vueling.com/en"></parameter>
+     <parameter name="excelFilePath" value="src/test/resources/TestData/VuelingData.xlsx"></parameter>
+
+	<test name="Flight Booking Test">
+		<parameter name="browserName" value="Firefox"></parameter>		
+		<classes>
+			<class name="org.epam.tests.FlightBookingTest" />
+		</classes>
+	</test>
+
+</suite>

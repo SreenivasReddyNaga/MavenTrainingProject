@@ -1,0 +1,85 @@
+2017-06-27 18:31:01,182 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 18:31:05,316 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 18:31:05,316 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 18:31:11,125 INFO  [main] closing the driver
+2017-06-27 18:31:11,640 INFO  [main] driver  closed
+2017-06-27 18:33:38,417 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 18:33:42,543 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 18:33:42,543 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 18:33:47,762 INFO  [main] closing the driver
+2017-06-27 18:33:48,310 INFO  [main] driver  closed
+2017-06-27 18:35:21,535 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 18:35:25,723 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 18:35:25,723 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 18:35:31,091 INFO  [main] closing the driver
+2017-06-27 18:35:31,647 INFO  [main] driver  closed
+2017-06-27 18:36:55,905 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 18:37:00,024 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 18:37:00,024 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 18:37:06,184 INFO  [main] closing the driver
+2017-06-27 18:37:06,744 INFO  [main] driver  closed
+2017-06-27 19:00:43,428 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 19:00:47,613 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 19:00:47,614 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 19:01:26,630 INFO  [main] closing the driver
+2017-06-27 19:01:27,130 INFO  [main] driver  closed
+2017-06-27 19:03:58,259 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 19:04:02,481 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 19:04:02,481 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 19:04:18,508 INFO  [main] closing the driver
+2017-06-27 19:04:19,068 INFO  [main] driver  closed
+2017-06-27 19:06:12,114 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 19:06:16,399 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 19:06:16,400 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 19:06:52,364 INFO  [main] closing the driver
+2017-06-27 19:06:52,855 INFO  [main] driver  closed
+2017-06-27 19:08:59,604 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 19:09:14,474 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 19:09:14,475 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 19:10:19,333 INFO  [main] closing the driver
+2017-06-27 19:10:19,832 INFO  [main] driver  closed
+2017-06-27 19:11:24,918 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 19:11:29,097 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 19:11:29,097 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 19:11:56,237 INFO  [main] closing the driver
+2017-06-27 19:11:56,750 INFO  [main] driver  closed
+2017-06-27 19:13:16,708 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 19:13:20,882 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 19:13:20,882 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 19:14:28,896 INFO  [main] closing the driver
+2017-06-27 19:14:29,387 INFO  [main] driver  closed
+2017-06-27 19:16:33,241 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 19:16:37,439 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 19:16:37,439 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 19:17:08,133 INFO  [main] closing the driver
+2017-06-27 19:17:08,688 INFO  [main] driver  closed
+2017-06-27 19:18:13,136 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 19:18:17,375 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 19:18:17,375 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 19:20:25,832 INFO  [main] closing the driver
+2017-06-27 19:20:26,332 INFO  [main] driver  closed
+2017-06-27 19:22:05,342 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-27 19:22:09,503 INFO  [main] Script execting on Firefoxbrowser
+2017-06-27 19:22:09,503 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-27 19:22:47,406 INFO  [main] Option with '2' is available in Dropdown
+2017-06-27 19:22:47,742 INFO  [main] Option with '2' is available in Dropdown
+2017-06-27 19:22:48,054 INFO  [main] Option with '2' is available in Dropdown
+2017-06-27 19:22:48,679 INFO  [main] Option with 'General Large Family' is available in Dropdown
+2017-06-27 19:22:59,670 INFO  [main] journeyDetails 13/07/2017 - 20/07/2017 | 2 Adultos, 2 Niños, 2 Bebés
+2017-06-27 19:22:59,702 INFO  [main] journeyDetails 13/07/2017 - 20/07/2017 | 2 Adultos, 2 Niños, 2 Bebés
+2017-06-27 19:22:59,811 INFO  [main] closing the driver
+2017-06-27 19:23:00,305 INFO  [main] driver  closed
+2017-06-28 10:48:25,467 INFO  [main] initializing the driver with browser name:Firefox
+2017-06-28 10:48:29,629 INFO  [main] Script execting on Firefoxbrowser
+2017-06-28 10:48:29,629 INFO  [main] navigating to the Url:http://www.vueling.com/en
+2017-06-28 10:48:36,940 INFO  [main] listener - start of the test
+2017-06-28 10:48:59,462 INFO  [main] Option with '2' is available in Dropdown
+2017-06-28 10:48:59,795 INFO  [main] Option with '2' is available in Dropdown
+2017-06-28 10:49:00,216 INFO  [main] Option with '2' is available in Dropdown
+2017-06-28 10:49:00,858 INFO  [main] Option with 'General Large Family' is available in Dropdown
+2017-06-28 10:49:05,348 INFO  [main] listener - start of the test
+2017-06-28 10:49:05,491 INFO  [main] journeyDetails 13/07/2017 - 20/07/2017 | 2 Adultos, 2 Niños, 2 Bebés
+2017-06-28 10:49:05,774 INFO  [main] journeyDetails 13/07/2017 - 20/07/2017 | 2 Adultos, 2 Niños, 2 Bebés
+2017-06-28 10:49:05,874 INFO  [main] On Failure Screen shot captured and Stored
+2017-06-28 10:49:05,880 INFO  [main] closing the driver
+2017-06-28 10:49:06,455 INFO  [main] driver  closed

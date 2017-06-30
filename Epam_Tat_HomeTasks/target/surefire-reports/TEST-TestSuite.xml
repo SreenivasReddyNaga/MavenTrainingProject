@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="41.568" tests="2" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
+    <property name="java.vm.version" value="25.121-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Automation Training\Selenium Training\Selenium Training\Epam_Tat_HomeTasks"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Automation Training\Selenium Training\Selenium Training\Epam_Tat_HomeTasks"/>
+    <property name="java.runtime.version" value="1.8.0_121-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\SREENI~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\Automation Training\Selenium Training\Selenium Training\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7284151692638229336.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;C:\Program Files (x86)\RSA SecurID Token Common;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\Sreenivasulu_Naga\AppData\Local\Android\sdk\platform-tools;C:\Users\Sreenivasulu_Naga\AppData\Local\Android\sdk\tools;D:\apache-maven\bin;C:\Users\Sreenivasulu_Naga\AppData\Local\Microsoft\WindowsApps;C:\Users\Sreenivasulu_Naga\AppData\Roaming\npm;C:\Users\Sreenivasulu_Naga\AppData\Local\Programs\Git\cmd;D:\eclipse-jee-neon-1a-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Sreenivasulu_Naga"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Sreenivasulu_Naga"/>
+    <property name="java.class.path" value="/D:/eclipse-jee-neon-1a-win32-x86_64/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.7.0.20160603-1931/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_121\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_121"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Automation Training\Selenium Training\Selenium Training\Epam_Tat_HomeTasks\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="flightBookingTest" classname="org.epam.tests.FlightBookingTest" time="28.383"/>
+  <testcase name="validateFlightSearchTest" classname="org.epam.tests.FlightBookingTest" time="0.533">
+    <failure message="The following asserts failed:&#10;	Actual city details and Expected city details are not same expected [Almeria (LEI) - Barcelona (BCN)] but found [Almería (LEI) - Barcelona (BCN)],&#10;	Actual Journy dates and Expected Journey dates are not same expected [13/7/2017 - 20/7/2017] but found [13/07/2017 - 20/07/2017],&#10;	Actual Passenger details and Expected Passenger details are not same expected [2 Adults, 2 Children, 2 Babies] but found [2 Adultos, 2 Niños, 2 Bebés]" type="java.lang.AssertionError">java.lang.AssertionError: 
+The following asserts failed:
+	Actual city details and Expected city details are not same expected [Almeria (LEI) - Barcelona (BCN)] but found [Almería (LEI) - Barcelona (BCN)],
+	Actual Journy dates and Expected Journey dates are not same expected [13/7/2017 - 20/7/2017] but found [13/07/2017 - 20/07/2017],
+	Actual Passenger details and Expected Passenger details are not same expected [2 Adults, 2 Children, 2 Babies] but found [2 Adultos, 2 Niños, 2 Bebés]
+	at org.epam.tests.FlightBookingTest.validateFlightSearchTest(FlightBookingTest.java:55)
+</failure>
+    <system-out><![CDATA[2017-06-28 10:49:05,348 INFO  [main] org.epam.listeners.TestNGCustomListener.onTestStart(TestNGCustomListener.java:42) listener - start of the test
+2017-06-28 10:49:05,491 INFO  [main] org.epam.pages.BookingResultsPage.getPassangersDetails(BookingResultsPage.java:48) journeyDetails 13/07/2017 - 20/07/2017 | 2 Adultos, 2 Niños, 2 Bebés
+2017-06-28 10:49:05,774 INFO  [main] org.epam.pages.BookingResultsPage.getPassangersDetails(BookingResultsPage.java:48) journeyDetails 13/07/2017 - 20/07/2017 | 2 Adultos, 2 Niños, 2 Bebés
+2017-06-28 10:49:05,874 INFO  [main] org.epam.listeners.TestNGCustomListener.onTestFailure(TestNGCustomListener.java:53) On Failure Screen shot captured and Stored
+]]></system-out>
+  </testcase>
+</testsuite>
